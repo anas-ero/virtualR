@@ -34,7 +34,7 @@ Credits to : "https://youtu.be/EwzWg-Joxq0"
 To run the project locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/landing-page-project.git
+git clone https://github.com/anas-ero/virtualR.git
 cd landing-page-project
 npm install
 npm run dev
