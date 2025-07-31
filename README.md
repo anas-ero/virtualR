@@ -6,9 +6,11 @@ Credits to : "https://youtu.be/EwzWg-Joxq0"
 
 ## 🔧 Technologies Used
 
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/) (for fast development setup)
+- React
+- Tailwind CSS
+- Vite
+- Git & GitHub
+- Vercel (for deployment)
 
 ## 📚 What I Learned
 
@@ -17,6 +19,14 @@ Credits to : "https://youtu.be/EwzWg-Joxq0"
 - Responsive design techniques
 - Organizing components and folders in a React project
 - Deploying a React app to GitHub
+
+## 🌐 Live Demo
+
+🔗 [View it on Vercel](https://your-vercel-app.vercel.app)
+
+## 📦 GitHub Repository
+
+📁 [GitHub Repo](https://github.com/yourusername/landing-page-project)
 
 
 ## 🚀 Getting Started
